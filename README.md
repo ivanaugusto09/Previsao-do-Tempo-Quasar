@@ -1,10 +1,12 @@
 # Quasar Clima App (quasar-clima)
 
-App em quasar clima do tempo
+App em Quasar de previsão do tempo utilizando axios para obter a API de weather
 
-![](/src/statics/Home.png)
+![](statics/Home.png)
 
-![](/src/statics/quasar-previsão.png)
+<img src="src/statics/Home.png">
+
+![](/statics/quasar-previsão.png)
 
 ## Install the dependencies
 ```bash
