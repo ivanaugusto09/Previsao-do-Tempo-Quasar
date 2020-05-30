@@ -2,7 +2,7 @@
 
 App em Quasar de previsão do tempo utilizando axios para obter a API de weather
 
-<img src="/src/statics/Home.png">
+<img src="Screenshots/Home.png">
 
 ## Install the dependencies
 ```bash
